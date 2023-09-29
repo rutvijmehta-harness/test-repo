@@ -1,7 +1,7 @@
 .PHONY: build test
 
 build:
-	@echo "hi"
+	@echo "running build..."
 
 test:
-	@echo "hi"
+	@echo "running test..."
